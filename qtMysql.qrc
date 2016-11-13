@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/book.ico</file>
+        <file>images/help.ico</file>
+        <file>images/index.png</file>
+        <file>images/about.png</file>
+        <file>images/help.png</file>
+    </qresource>
+</RCC>
